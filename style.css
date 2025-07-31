@@ -1,0 +1,19 @@
+#error {
+  background-color: white;
+  color: black;
+}
+
+#slide1 {
+  background: url('background1.png') no-repeat center center;
+  background-size: 30cm;
+}
+
+#slide2 {
+  background: url('background2.png') no-repeat center center;
+  background-size: 40cm;
+}
+
+#slide4 {
+  background: url('bg4.png') no-repeat center center;
+  background-size: 40cm;
+}
